@@ -1,0 +1,17 @@
+json_repair
+langchain
+langchain_community
+langchain_core
+langchain_experimental
+langchain_openai
+pydantic
+pyzotero
+unstructured[all-docs]
+pytesseract
+ollama 
+chromadb
+pytesseract
+pdfminer
+numpy==1.26.3
+neo4j
+opencv-python-headless>=4.8.0.76
