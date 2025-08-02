@@ -19,21 +19,4 @@ The reference is a knowledge graph shown below
 - All data are stored locally, supporting llama.cpp and Ollama local LLM
 
 
- ## Usage
- To convert PDF files into graph, just use the dpf2graph.py
- ```
- python pdf2graph.py
- ```
- Enter the path to the PDF file or just enter the title of the paper stored in Zotero library. Each PDF may take several minutes.
-
- After convert, you can run graphQA.py to query this graph, enter exit to stop.
- ```
- python graphQA.py
- ```
-
- ## References
- [openai cookbook](https://github.com/openai/openai-cookbook/blob/main/examples/RAG_with_graph_db.ipynb)
- [Langchain](https://github.com/langchain-ai/langchain/tree/master)
- [Neo4j](https://github.com/neo4j/neo4j?tab=readme-ov-file)
- [Pyzotero](https://github.com/urschrei/pyzotero)
- [blogs](https://github.com/tomasonjo/blogs/blob/master/llm/enhancing_rag_with_graph.ipynb?ref=blog.langchain.dev)
+ 
